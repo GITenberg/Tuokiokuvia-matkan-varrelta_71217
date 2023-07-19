@@ -1,0 +1,30 @@
+_repo: Tuokiokuvia-matkan-varrelta_71217
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ivalo, Santeri
+    aliases:
+    - Ingman, Santeri
+    - Ivalo, Herman Aleksander
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: https://fi.wikipedia.org/wiki/Santeri_Ivalo
+description: ''
+gutenberg_issued: '2023-07-18'
+identifiers:
+  gutenberg: '71217'
+language: fi
+pgterms:marc905: 20230716061148ivalo
+pgterms:marc906: '1892'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bWerner Söderström, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tuokiokuvia matkan varrelta
+url: http://www.gutenberg.org/ebooks/71217
